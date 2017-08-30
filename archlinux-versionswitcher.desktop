@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Archlinux-Versionswitcher
-GenericName=Archlinux-Versionswitcher
-Comment=Switch between java versions
-Exec=gksudo /usr/bin/archlinux-versionswitcher
-Icon=archlinux-versionswitcher_icon_48x48
-Terminal=False
-Type=Application
-Categories=System;
