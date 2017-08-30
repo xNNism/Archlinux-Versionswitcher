@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+pkg/
 .Python
 env/
 build/
@@ -24,6 +25,8 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+.pkg.tar.xz
+.tar.xz
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
